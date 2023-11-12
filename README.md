@@ -1,8 +1,8 @@
-## ieltTab2
-A Chrome extension to help you remember ielts word. When you open a new tab in the Chrome extensions, the page will show 5 new words for you.
-Click the more button to see more words.
-Click the hide Chinese button to hide Chinese.
+## IeltTab2
+This Chrome extension is inspired by the 
+[Google Arts & Culture](https://chrome.google.com/webstore/detail/google-arts-culture/akimgimeeoiognljlfchpbkpfbmeapkh).
 
+A Chrome extension to help you remember ielts word. When you open a new tab in the Chrome extensions.
 Key features of ieltTab2
 
 - Show 5 ielts words when user opens a new tab
