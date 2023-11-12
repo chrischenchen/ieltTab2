@@ -42,7 +42,8 @@ See [LICENSE](LICENSE) for more information.
 ## Acknowledgements
 Awesome resources which help this projects.
 - [How to Deploy Your Node.js Application for Free with Render](https://www.freecodecamp.org/news/how-to-deploy-nodejs-application-with-render/)
-- [Amazing-github-template](https://github.com/dec0dOS/amazing-github-template/tree/main#license)\
+- [Amazing-github-template](https://github.com/dec0dOS/amazing-github-template/tree/main#license)
+- [Atomic Habits](https://jamesclear.com/atomic-habits)
 
 ## Reference
 Fogg, B. J. (2009). A behavior model for persuasive design. Persuasive ’09: Proceedings of the 4th International Conference on Persuasive Technology. https://doi.org/10.1145/1541948.1541999
